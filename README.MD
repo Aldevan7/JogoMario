@@ -14,6 +14,6 @@
 - Git & Github
 
 ## 💻 Contato
-- [Gmail](aldevan.santos@gmail.com)
+- aldevan.santos@gmail.com
 - [Endereço eletronico](https://linktr.ee/aldevan7)
 - [Linkedin](https://www.linkedin.com/in/aldevan7/)
